@@ -1,5 +1,14 @@
 Welcome!
 
-This database provides a Binaural Room Impulse Response (BRIR) dataset, along with speech intelligibility scores obtained from extensive listening tests involving human perception. Two files contain:
-1) BRIRs dataset, with a total of 8 files, along with speech intelligibility scores.
-2) Comprehensive document of the datasets' validity.
+This repository contains the supplementary materials for the paper:
+“Machine Learning Framework for Speech Intelligibility Prediction using Binaural Room Impulse Responses” (Alfian et al., 2025)
+
+It provides the following resources:
+1) Supplementary documents containing additional tables, figures, and details of the dataset acquisition process.
+2) BRIR dataset, consisting of 189 BRIRs High Intelligibility Class, 181 BRIRs Low Intelligibility Class, and 6 Binaural Recordings for calibration.
+3) Python source code for developing and evaluating the machine learning model.
+
+All materials in this repository are open-source.
+If you use any of these resources, please cite the paper (Alfian et al., 2025).
+
+Thank you, and enjoy exploring the dataset and code!
