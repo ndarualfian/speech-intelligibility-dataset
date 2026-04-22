@@ -1,7 +1,7 @@
 Welcome!
 
 This repository contains the supplementary materials for the paper:
-“Machine Learning Framework for Speech Intelligibility Prediction using Binaural Room Impulse Responses” (Alfian et al., 2026)
+“Binaural Acoustics Sensing for Speech Intelligibility Assessment: A Dual-Branch CNN–MLP Framework Using Binaural Room Impulse Responses” (Alfian et al., 2026)
 
 It provides the following resources:
 1) Supplementary documents containing additional tables, figures, and details of the dataset acquisition process.
